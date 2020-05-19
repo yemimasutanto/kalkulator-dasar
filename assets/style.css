@@ -57,3 +57,10 @@
  .button:hover {
     font-weight: bold;
  }
+
+ /* biar responsive */
+ @media screen and (max-width: 513px) {
+    .button {
+        padding: 10px;
+    }
+ }
