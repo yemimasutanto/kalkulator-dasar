@@ -1,2 +1,2 @@
-# kalkulator-dasar
-Project Calculator from Dicoding
+# Web Calculator
+Project Web Calculator Dicoding
